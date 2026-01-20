@@ -1,7 +1,6 @@
 # PeriNeuroImmuneMap
 
 **Multi-Scale Spatial Transcriptomics Framework for Perineural Neuroimmune Coupling**
-**Correspondence:** Wei Qin (<wqin@sjtu.edu.cn>)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
@@ -113,8 +112,8 @@ If you use this pipeline, please cite:
 
 ---
 
-## Contact
-
-**Wei Qin, PhD**  
-Shanghai Jiao Tong University  
+## Correspondence
+Assoc. Prof. Wei Qin
+Associate Dean, Institute of Industrial Engineering and Management 
+Shanghai Jiao Tong University, China  
 Email: wqin@sjtu.edu.cn
